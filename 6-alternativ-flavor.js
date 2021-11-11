@@ -6,3 +6,5 @@ const person = {
 }
 
 module.exports.singlePerson = person
+
+//gör samma sak som names.js fast där skicka vi med properties istället för objektet
